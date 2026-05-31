@@ -1,0 +1,7 @@
+[barto]
+name=Barto Repository
+baseurl=https://rustyhorde.github.io/barto-packages/rpm/$basearch
+enabled=1
+gpgcheck=0
+repo_gpgcheck=1
+gpgkey=https://rustyhorde.github.io/barto-packages/gpg.key
