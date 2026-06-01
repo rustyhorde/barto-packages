@@ -1,0 +1,28 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Mon, 01 Jun 2026 15:09:31 +0000
+Description: Barto package repository
+Label: barto
+Origin: barto
+Suite: stable
+MD5Sum:
+ a7ed23d13d2575b02e64f1e93880a472              178 Release
+ f8618f7aa9ddc13f57b2073f714914aa             3046 main/binary-arm64/Packages
+ 4f0fc25b37d56a9ac0b40cf6feb6c962             1249 main/binary-arm64/Packages.gz
+ c669f02b9d3891f25428a49c8e6104cc             1296 main/binary-arm64/Packages.xz
+SHA1:
+ 2c498f6d79c5bfa3e600ade7c67260b2f8822ed1              178 Release
+ 38781266efbc775e7012b244479ab619396d88a4             3046 main/binary-arm64/Packages
+ 96e8abf8d2ecabf6b79a6217b0772cd1b5a7eb08             1249 main/binary-arm64/Packages.gz
+ 2394a28a00c834aed2a41f57110f9b1c00c44561             1296 main/binary-arm64/Packages.xz
+SHA256:
+ 1b52b111bd4001d0acbe4a27349806a7a33b11c4fcb2b931d3a1939a8cc88521              178 Release
+ ead95e792121c2594175de0ee8204085bf17a499c197910d064164084d4c633a             3046 main/binary-arm64/Packages
+ 6ee75fbf7d768f362897097d57e06a7fba3cd31306fbde6ed2af7d171e235515             1249 main/binary-arm64/Packages.gz
+ caf763e067e0ff6d6e5d8d6d29d87e58c0611ee858efbc3aadbc28290b35bebe             1296 main/binary-arm64/Packages.xz
+SHA512:
+ 979aff3977d5036272b3d1ecd586bb42ae14d7ec4e92a6710a78d3179754ba330ec4f1c8f585623d69ad6576b1c78486ec1e22dba8d54f805768b0e2a13b2d11              178 Release
+ e4e509cc0c9bdb0ff260ce10e03024ad92f37bfac28a9aa04f5276da02d25fcfa43dc06237066527ff531518b8286e13fa7b75a90598c31220203b7a1d080873             3046 main/binary-arm64/Packages
+ ada978f111b6d118d324c10c1e7f5df19e19597e72565410fcb8bddc286000c00bbdf2fddcedc579fce286e50427009293dd2113ec5e4cf65fd7bd8734f0be7c             1249 main/binary-arm64/Packages.gz
+ ab75a8bf8466630f794cf0b602a057ad8bcce0ea99e46e6fdf08fbc2ed205e75e1bbf443f8b5261e4df42f270d9550832314d2376bdd2e4e5b720e77b98cfc0b             1296 main/binary-arm64/Packages.xz
