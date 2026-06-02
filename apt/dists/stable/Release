@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Tue, 02 Jun 2026 16:11:18 +0000
+Date: Tue, 02 Jun 2026 18:02:59 +0000
 Description: Barto package repository
 Label: barto
 Origin: barto
 Suite: stable
 MD5Sum:
- e74e1d35641a37a1a8bb5f1d6e17b4ee              178 Release
- 6a9c5fd59b2af6f49c75a022a8840f0c             3110 main/binary-arm64/Packages
- 1f57f70ed6537af027d7075cf3c72506             1260 main/binary-arm64/Packages.gz
- 70b36c58c10d36d563a12da231aa28d3             1304 main/binary-arm64/Packages.xz
+ 735e5d5eb1515fa63b63d4268a8f1bf0              178 Release
+ 5b1290c5d49a22e2cb324aada5cebcab             3110 main/binary-arm64/Packages
+ e736f8ef4ea6b23696290d684da78360             1264 main/binary-arm64/Packages.gz
+ 8cbf6a297aa9893094132956156ec605             1304 main/binary-arm64/Packages.xz
 SHA1:
- bf55a8d5aa2a3f00e1c19b3ec9b5c0d2c9c46149              178 Release
- 06faad6bc0e3acfc1c41b82149cc85badff62c5d             3110 main/binary-arm64/Packages
- 78b094df78738321f2d04ffe691c372aedc5e626             1260 main/binary-arm64/Packages.gz
- aff25e020b145f208826fac4aa47751c3527c859             1304 main/binary-arm64/Packages.xz
+ e810c2bf134c9c8f57ab7fb63b003e7ae52e548b              178 Release
+ 43fbb7afc2fa7ecefb4d4d98807ada041c7df5f0             3110 main/binary-arm64/Packages
+ 80c908f26a63ae43cf769282df75a1482af08e12             1264 main/binary-arm64/Packages.gz
+ 5afeb735ef816b8f744204a0c72f58f247b3cd3e             1304 main/binary-arm64/Packages.xz
 SHA256:
- 5c154fa7dd2e9de7961941c2afff899ff4b211132ca6b5d0eee08f9278e0c82f              178 Release
- 5356e522bbb4481469218ea7a289e583ce64a3c820475bf0e85edeea9d72a1b6             3110 main/binary-arm64/Packages
- 4515528a9e96873bd7fa03a93bd7f86b095c93fdda05912147f355a118eba935             1260 main/binary-arm64/Packages.gz
- 8da1892fb127737977d92cb38e9eac7bcc176f41177958f817dc88d0f27a4795             1304 main/binary-arm64/Packages.xz
+ 79ad6a039c9483773080259a0c1790e98ce945a88f5f3470af87e4921403512b              178 Release
+ 113da3bdb8bb619b553faebd001f95e0ef3763342fef58f13631f5acdf789757             3110 main/binary-arm64/Packages
+ cd1e9527b99c909b5ae9cc74fd97afa3548be7c3d889f6bcd514fafa2ae3bde8             1264 main/binary-arm64/Packages.gz
+ a90ff854f21a69d1d913626867559e1f835300ff5683dc151596383d7c01a253             1304 main/binary-arm64/Packages.xz
 SHA512:
- 873a47c68689d4d8771f42594ba0cca75d6a673ce3500512c38d562ea87943aee37bbc8f87218a6b1dc740f166f647db0adee0a18e4dcf7d58b5079dc0b1ece8              178 Release
- 9d22c8098969cc471d780f330dd1bdba25cf0cd4e8ce860def59c33d7c6e34bf63517f99ac1a6b57c8c7f8119801b6f6fb808af411651bf8823020e496d83bc2             3110 main/binary-arm64/Packages
- a77e25c092790d5f96adb8c4ccb6a179afc22512ce8dc716117e604f55f71a9975180715d78ef5248bdea26ef8c23aa369f85ab21f2add597d1fcde0930f47c1             1260 main/binary-arm64/Packages.gz
- 0cbf94acd95a5ab527f1fbe2ee063eff71783a90ba4a100b94e272b1b8eab989cafea5235ca3cb534230b1b2eba6bdf101fe1d533fa7a8a12ac09a5274b82d65             1304 main/binary-arm64/Packages.xz
+ 235ec4a01bed5daf9c6f64cbe32c4a01212374e79872e75a3e511f43198d9653fe2b1f2203462559744f8121509a0938f35858d2949a534e5465d59ee95ddb41              178 Release
+ b3c99dab7a609573621620c6dae83f6053d90ef6e1614a3c45dc13351f2fbce447da512cd773d4fa39a8b6b5f7daaaea6b24f9668723b06a5acdde8cdfcb7968             3110 main/binary-arm64/Packages
+ cf81871762a7a64aa002db1d0c61405ea558a6877c4e5286c70ad301a5dd123adf37f40893fca560d12b3576d28259255fff4f1bbea7603930f26a4c1e349d82             1264 main/binary-arm64/Packages.gz
+ a0e8dd3d2b79b822d0c6f89419e3928ac1fc119bf494b93561a0552fec54696d4ffc1446c811661e2f6d1761f0ca8c12f9bc6f396681063a9c112fae64c2f243             1304 main/binary-arm64/Packages.xz
