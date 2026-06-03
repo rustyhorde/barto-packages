@@ -4,44 +4,44 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 03 Jun 2026 18:19:56 +0000
+Date: Wed, 03 Jun 2026 22:30:00 +0000
 Description: Barto package repository
 Label: barto
 Origin: barto
 Suite: stable
 MD5Sum:
- 9e525a2812903b745ae4ee3fe770ad04              178 Release
- 51b436cc5e039381c563c14d94f54218             3110 main/binary-arm64/Packages
- b859c79ab28881ca6211a3e3bb6d3ea0             1265 main/binary-arm64/Packages.gz
- 2069b3465d2c79c07165e285cfe07ff6             1304 main/binary-arm64/Packages.xz
+ d9b2d833d0b19354800dcbc7304279c0              178 Release
+ 152d4d0c7c08b47c128cab08333b39e3             3110 main/binary-arm64/Packages
+ cae3fb2151e6078db8cb7c2b5199b457             1265 main/binary-arm64/Packages.gz
+ ca8251810ad3283c778bda831f0c4105             1304 main/binary-arm64/Packages.xz
 SHA1:
- 6b43320e8820a07792361f1c648888cea7414a47              178 Release
- 0ee252d503cdef973e375990558937369db069aa             3110 main/binary-arm64/Packages
- 803142cf50fba5b71c1a0ed923ceb314204dc348             1265 main/binary-arm64/Packages.gz
- 7ac11b20a9b7d2422cc26969e116bfbb92b457f6             1304 main/binary-arm64/Packages.xz
+ aa86c63de067a2e4aa47a2fc27eec310db048693              178 Release
+ 742052e9f7b05435e4e213a603cafc23282035ef             3110 main/binary-arm64/Packages
+ f870d3a61416b03c215be4524662ecaf91190881             1265 main/binary-arm64/Packages.gz
+ 03dcef827fef8a7292b97783d0e2fc27ad8bda46             1304 main/binary-arm64/Packages.xz
 SHA256:
- d7961b689e7bf07d1fd617b77e8d0e2f065c30434ee2f726f9d5130936d7bdea              178 Release
- a0fcabb6e6d192d33274f6fed5f369aab809c9cacad96ec4ba2731fb29c5e8a0             3110 main/binary-arm64/Packages
- 6a04cee7f57504900a6f0f6879930eeb0223c851157250223803c9ea5c0af222             1265 main/binary-arm64/Packages.gz
- dc1af8d47c0019616f2a7ffdfc4f9dc582a616fac283ab29121391b18d770958             1304 main/binary-arm64/Packages.xz
+ 676fdda59f5408c6fe256e5c5b102966c3e8ae1b2ba2ec1426a56513511918ec              178 Release
+ 519464ac695f44df1dd73724203f359040e5a862a77ac9d7c583f306e562711f             3110 main/binary-arm64/Packages
+ 804595f506bedb50ea08c76a9acf61fa97e08d71db058ae08daad0e5fc2b9af7             1265 main/binary-arm64/Packages.gz
+ abc0fd59cf48bda86d2d397107cfef6996851ccc456b5163214d86e7e739c81b             1304 main/binary-arm64/Packages.xz
 SHA512:
- dfac4e1477db9809366f3cb04273025b230e05789dda73b8ba4c4f73ac333ff405c360487ac99dfb9adb2498bf1862810961c90b6c6cb491bf6cff0cb1257198              178 Release
- 40587e853e4b696833e0516ecbabc75e2d119e5a4d95e1e11e28e4dab7edb107d1879c57ebfb93881d48cacb533dca9a4041919c03cb491a31c4a6d52a2e5b51             3110 main/binary-arm64/Packages
- 9a3b6a631e76c5b9a7f96af763d22f38a144476b81d23db7804baec6c099768fcfe3ba5b45ffe8e73057c062c4f1f5cdf3fd9e8883ef1e1c404fa4acc929036a             1265 main/binary-arm64/Packages.gz
- eb6866cd084fcc5173e3afc0d09d0f4f73f4ababa89dea30d589785ae6906eb8e398bd4acf46b4874c076b4a8517fc6090fecb3b6ce1927c7acea9aef0af4224             1304 main/binary-arm64/Packages.xz
+ ec8069fd525934e5951fc3fb8a451efacf9e0c2a2bab819f934baea9074a01dc76c27993c9db2d8cbe18dd7d9f1f790efa5a1a4399655d0d98f7f9659aa13c5f              178 Release
+ c99ce9e3f81586934d4e0f847fd9a05906e30937c774f204d0ce2ec2eb8ee05b2d7964d91dcd9e6209737000f583af2ec916f039b9952a7e3a808d712539c904             3110 main/binary-arm64/Packages
+ 7f892dc9137f5f5d6598da382749d4c585d796d24c784b93fed6190db0c339e2fa04139a6d1540df2b9208020ede9d7a3593d69ba843d018a86e53ac6b063abf             1265 main/binary-arm64/Packages.gz
+ da7306babd2c4e8d9dbff3ab1ee7d43dcaa9400e9ab494c14b71482bc87205d868291a03c63ac109aef0b7841b3c92cc8ca48383035a688db2c28df47eee68bc             1304 main/binary-arm64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEpoGnYXegE08WO55KCOOFA0LBx70FAmogcEwACgkQCOOFA0LB
-x70AoxAAsBpu/jb3ndPZysZDDUMUvSNCTxsj2yDDsHP8OBZCnic9xcnaKP3RWTy/
-j4WTFSEvt2ZMMSdZHIlfeTom+L84VUuGZM5x/3S5snJo+ZZGFOu/XdvO76bkaB+v
-TDwSMerjcsNUgyEgowyv0BlRRqcewTlV3zBFEb2hZBd79PLtLUjGlrMzqQgxTDtV
-2egcTL0SxTKAXXO3bq6juibqrq/b9sjeX5KY4EpPyDgBRMaj/PsWbsUj2cKeBIHE
-tISXhEvDm+fnaxd+hHgl56H+Rph0vNaLW6+FZ/YOlrSyfVJ8nd0TTmUBIftjsuJf
-WGB0VXo6raBKX7jvIFNYEk8AzyU8xHVOJSR92v5uuKhwOchbRJHfTNmjDAKb17q/
-bg2RT1oHEaobcqZQOsWXhcH/Ko4f1v+rj09QUsMeBDvet7YP+oWkxuNI0gpKtybv
-ESsMr8vMcAjXQ/mYq96YE10i40HRiuYrimhsg8ub7qhZBg6i2tJJeqzINGNU3YLg
-KkTcElw1Z5UV2+das+/6yAb9KBM0W2a0CKbtsLzI2FD6f/LQHh+73MP8vib3vLpM
-KHKLbIWRxrf56OcjRGH4uiLBWswfWuv9R9jLeOW/9dOXnwK+3nAk0Ugz1xub6JAM
-SjsBaGNRu1Wk9jJDtJPCNtfMfVZZ3WoDWlly/98JWj4fHHRaI60=
-=xXkj
+iQIzBAEBCgAdFiEEpoGnYXegE08WO55KCOOFA0LBx70FAmogqugACgkQCOOFA0LB
+x73emhAAmwFWeIGQfmhuAGkT4m+kHRLtekn44x6k3BOgPlJd/mZhoneW8sfDYxQ0
+oTEO2ZfJ75pBHth54hOMWiD9ANJXAj8u2w1DF9r1emFsBa/28knsndC7xCEQ2/cy
+v/AS2Oxc+JZhX4QRjvzeVqxjGHt/zIzxmUCJvJ4/C+ok4npeQqcGDwpAMwuX+it2
+tKx7lEvUfVAF0Qniu04M2OUZbwO/RE3HrNxe+B2ddnlwuor08fPL6n5Zj58gCZo8
+hA20cp/uDJrLJlEmFUs09euOXnIMInLfLoeviMA3haxc3C9JPYwRM444j5zvoHK8
+qC9Ua7Liw8zR/KmpdNoN43Hke8Bsa9MGwoi3Um+cQx3MCFPGK0cG/OJMTALWNUy/
+zJxr+Q8ifomguOGaMG70ZGwqTsmKBQyfZeq39IgmptpLByh8T6DgHofWC/TLghR9
+FVgSp/fXuhsVVdPvrOa4jqLdxUAWfZV/FSNS8XqTuArMjJhfJNSdMcRIZcBEa94L
+zK6XXxTCZC8C0xRmAQjh/P/Ou7YmaK64HsbGwj0BmI5hECmuW7B59ry/Mg9CemSQ
+u88Bgvo1BNW9HDu8Jf/Ze004Ygbq4/k95E94XAfc+YLmPrL1yHRyuRRgf6WovKiP
+bthx3ogTIRcyXR/alWt1QmCJXCLY+wXBF0ReWaaxmAiaA6eM/pY=
+=e+Rz
 -----END PGP SIGNATURE-----
