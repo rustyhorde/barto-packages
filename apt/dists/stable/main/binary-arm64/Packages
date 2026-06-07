@@ -1,17 +1,17 @@
 Package: barto-cli
 Architecture: amd64
-Version: 1.5.9
+Version: 1.5.10
 Priority: optional
 Section: net
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
 Installed-Size: 11904
 Recommends: locales
-Filename: pool/main/barto-cli_1.5.9_amd64.deb
-Size: 3932336
-MD5sum: 6f18dfb60e8c53dbcc90f39ee3e56ae0
-SHA1: 0ac2cddd1299997d8876530b32e6468ff1435b67
-SHA256: 20f3446a5893834e390e1f4fd7d05c86e4209868ae22ebfc46f519aafd297b98
-SHA512: 720f4b01b13a3a46b38b8daa4bdb6117c964785bbb0352943154049728e683a8148e487c7b5d4f957a0ad27dc0139998a2484ad545b5b8d725692b565733de5a
+Filename: pool/main/barto-cli_1.5.10_amd64.deb
+Size: 3932954
+MD5sum: 63a5790894db78f7ecdd71cd580dcfa0
+SHA1: 08822e14f3a13658ef71cf29b972129d64f3f865
+SHA256: 482bbcfd9be93bd1bf5232373462b80e9a4da9750ac8b9e8ce130d89d106b3ac
+SHA512: c7e683fbbdfd020c53d4e2e2d3b9e8fa5df6808736a30df51788c606c59a7f707bb7fde4ed981e7f79d7a249744c5e01910274c2bce21297391f2fc638a8f4ca
 Homepage: https://github.com/rustyhorde/barto
 Description: Barto command-line interface.
  Query and manage a running bartos instance: list connected clients,
@@ -20,18 +20,18 @@ License: MIT OR Apache-2.0
 
 Package: barto-cli
 Architecture: arm64
-Version: 1.5.9
+Version: 1.5.10
 Priority: optional
 Section: net
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
 Installed-Size: 11457
 Recommends: locales
-Filename: pool/main/barto-cli_1.5.9_arm64.deb
-Size: 3601504
-MD5sum: d550980b38b69585c5c9c659a2628957
-SHA1: 1502e4f6ab2a4e729138272410eb75cd53c4ac60
-SHA256: 7ac95495202c8e1df3042c0156c7ae0c24b42bb76f4db8441bffb4e77d5e6f4a
-SHA512: 8c4457c518ee284a04436f26585a1898cdda8a1c7f16b8b2eac2217df89e7cf5f3e2732b616f64ee6aac6843cc020774a4bcf6e6628a56ead78fa25cd8cf0027
+Filename: pool/main/barto-cli_1.5.10_arm64.deb
+Size: 3600950
+MD5sum: acb6b503aebee545f5fce12f868441c6
+SHA1: cf9f6032644f06dd39d8b0d090d7b252018471f6
+SHA256: c4ab8289e7c70535c54ddb13386a1e7681d857d321dc6f5f6a68180ff43b1625
+SHA512: af383339ec32aff232ed2f23586c84518890ac29f9f2f853f007a9eb42d049ee0c5c38ee664c2be532681e42bf88cf3d6da83b059c24274e0c1a6651db2fd892
 Homepage: https://github.com/rustyhorde/barto
 Description: Barto command-line interface.
  Query and manage a running bartos instance: list connected clients,
@@ -40,19 +40,19 @@ License: MIT OR Apache-2.0
 
 Package: bartoc
 Architecture: amd64
-Version: 1.5.9
+Version: 1.5.10
 Priority: optional
 Section: net
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 11003
+Installed-Size: 11054
 Recommends: locales
 Suggests: logrotate, xz-utils, age
-Filename: pool/main/bartoc_1.5.9_amd64.deb
-Size: 3758794
-MD5sum: df6affd7a3078e30484f4f758576fd83
-SHA1: ad4dff1465770d60844bc58858e38d1b61c683d9
-SHA256: f984417a268cfc38e531c24f259e57f36914a36725a18df3f520e5c879460842
-SHA512: 3ee05cff6d3472b6f316c11f1ea15f7336d2b1fdfbfd4c433c042c30cae2491551288b0299c6cdf57e2eef7e8ce8829e12bfc41a691abb10b436256250659733
+Filename: pool/main/bartoc_1.5.10_amd64.deb
+Size: 3773672
+MD5sum: ad54005c2a150dde7a310031d01b6a1a
+SHA1: df297662ad801a7986a6006a7a8dec81fb975986
+SHA256: f9e1325ce497a593e39e88074d4be32d44154a145e5f8709a758ccbf214f097d
+SHA512: cef9e0664bdbd09aef48d44919c26fdb4d61de6941ad2203cd4f059408c856b21987cf863fd030c594ca131c64500eaa277facc3ddb9c86c323f0ba5632b40f3
 Homepage: https://github.com/rustyhorde/barto
 Description: Barto job executor client.
  Executes scheduled commands on behalf of a bartos server and streams
@@ -61,19 +61,19 @@ License: MIT OR Apache-2.0
 
 Package: bartoc
 Architecture: arm64
-Version: 1.5.9
+Version: 1.5.10
 Priority: optional
 Section: net
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 10317
+Installed-Size: 10371
 Recommends: locales
 Suggests: logrotate, xz-utils, age
-Filename: pool/main/bartoc_1.5.9_arm64.deb
-Size: 3378708
-MD5sum: aa0b9cef119b1b4c97cc0baee879c454
-SHA1: ab74eeeee38fc534798621d72bccfde3ac098325
-SHA256: 8a2269198ab8ae46b20f00d799047aa822be7570974f02c1001fb979b74fa4dc
-SHA512: 525220744d6ce27a31d34564cfa137069666cd1fa638f228c91d290d9b3c0e3062bcdf56a43c409b6ccc434aa3cd5f6756ef943b0541c1c5c8b097816e4923d4
+Filename: pool/main/bartoc_1.5.10_arm64.deb
+Size: 3394056
+MD5sum: 548cbfc2096cfa028e9ae0ca3ef59bef
+SHA1: 11caef1b85e2c6dcf76fd358d3f3c83d83cce725
+SHA256: e9bf78b6762b5a676dd6a77c2b85acfe1758136e1f5fcf36cc7ab233ef4300b7
+SHA512: 6c63730b878611aba2989e5ab6b4c07648e49fbaf971c1b37077068730f1a51abe522e434d1dd75827063111bd3e7c1d63b183319c1d440ffc9083afb14f9d21
 Homepage: https://github.com/rustyhorde/barto
 Description: Barto job executor client.
  Executes scheduled commands on behalf of a bartos server and streams
